@@ -15,7 +15,9 @@ public class CardList implements Aggregate {
 	}
 
 	public int size() {
+
 		return this.cardList.size();
+
 	}
 
 	public void add(Card card) {
