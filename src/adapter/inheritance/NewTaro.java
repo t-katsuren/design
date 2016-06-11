@@ -1,4 +1,4 @@
-package adapter;
+package adapter.inheritance;
 
 public class NewTaro extends Taro implements Chairperson {
 
