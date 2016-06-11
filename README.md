@@ -12,4 +12,5 @@ Javaでデザインパターンを勉強する為のリポジトリ
 knowledge
 -----
 * [Iterator Pattern](https://github.com/t-katsuren/design/wiki/Iterator-Pattern)
+* [Adapter Pattern](https://github.com/t-katsuren/design/wiki/Adapter-Pattern)
 * 
