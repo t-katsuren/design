@@ -1,11 +1,12 @@
 package factory_method.self;
 
-public class RiderFactory extends Factory {
+public abstract class RiderFactory {
 
-	@Override
-	protected Rider createRider(String name) {
+	protected abstract Rider createRider(String name);
 
-		return new Ghost(name);
+	public Rider create(String name) {
+
+		return createRider(name);
 
 	}
 

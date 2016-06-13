@@ -2,6 +2,6 @@ package factory_method.self;
 
 public abstract class Rider {
 
-	public abstract void omegaDrive();
+	public abstract void kick();
 
 }

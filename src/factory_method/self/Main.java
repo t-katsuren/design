@@ -4,15 +4,15 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Factory riderFactory = new RiderFactory();
+		RiderFactory rf = new KamenRiderFactory();
 
-		Rider mySoul = riderFactory.create("MySoul");
-		Rider deepSpecter = riderFactory.create("DeepSpecter");
-		Rider necrom = riderFactory.create("Necrom");
+		Rider no1 = rf.create("1号");
+		Rider ghost = rf.create("ゴースト");
+		Rider drive = rf.create("ドライブ");
 
-		mySoul.omegaDrive();
-		deepSpecter.omegaDrive();
-		necrom.omegaDrive();
+		no1.kick();
+		ghost.kick();
+		drive.kick();
 
 	}
 
