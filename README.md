@@ -13,5 +13,5 @@ knowledge
 -----
 * [Iterator](https://github.com/t-katsuren/design/wiki/Iterator-Pattern)
 * [Adapter](https://github.com/t-katsuren/design/wiki/Adapter-Pattern)
-* [Template](https://github.com/t-katsuren/design/wiki/Template-Method-Pattern)
+* [Template Method](https://github.com/t-katsuren/design/wiki/Template-Method-Pattern)
 * 
