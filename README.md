@@ -15,4 +15,5 @@ knowledge
 * [Adapter](https://github.com/t-katsuren/design/wiki/Adapter-Pattern)
 * [Template Method](https://github.com/t-katsuren/design/wiki/Template-Method-Pattern)
 * [Factory Method](https://github.com/t-katsuren/design/wiki/Factory-Method-Pattern)
+* [Singleton](https://github.com/t-katsuren/design/wiki/Singleton-Pattern)
 * 
