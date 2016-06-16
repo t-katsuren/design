@@ -16,4 +16,5 @@ knowledge
 * [Template Method](https://github.com/t-katsuren/design/wiki/Template-Method-Pattern)
 * [Factory Method](https://github.com/t-katsuren/design/wiki/Factory-Method-Pattern)
 * [Singleton](https://github.com/t-katsuren/design/wiki/Singleton-Pattern)
+* [Prototype](https://github.com/t-katsuren/design/wiki/Protorype-Pattern)
 * 
